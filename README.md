@@ -1,3 +1,18 @@
-# My Awesome Book
+# 微信公众号实现Siri
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> Laravel 是最好的PHP 框架。
+
+Siri 是一个iOS系统的语音助手，她能根据用户输入的语音消息提供个各种服务。
+
+Hey Siri ，今天天气怎么样？
+
+Hey Siri  ，附近有什么好吃的？
+
+Siri 背后数百名程序员在不停的努力，她背后的神经网络远比我们想象的复杂。
+
+现在我告诉你，你可以使用微信公众号去实现属于你自己的Siri。
+
+微信公众号返回文本和图文消息已经不是什么难题了。返回语音消息在技术上要求能够动态生成语音。
+
+
+
